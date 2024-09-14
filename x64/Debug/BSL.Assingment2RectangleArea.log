@@ -1,0 +1,2 @@
+﻿  RectanleArea.cpp
+C:\Users\lorbr\source\repos\BSL.Assingment2RectangleArea\BSL.Assingment2RectangleArea\RectanleArea.cpp(39,11): error C2082: redefinition of formal parameter 'area'
